@@ -1,0 +1,1 @@
+* Another example on ownership
