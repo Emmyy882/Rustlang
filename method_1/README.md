@@ -12,3 +12,5 @@ everywhere within the body. In main, where we called the area function and passe
 rect1 as an argument, we can instead use method syntax to call the area method on our 
 Rectangle instance. The method syntax goes after an instance: we add a dot followed by
 the method name, parentheses, and any arguments.
+
+![gitmethod1](https://github.com/Emmyy882/Rustlang/assets/110739304/d0162baf-244c-4bda-91fb-7b861314c34e)
