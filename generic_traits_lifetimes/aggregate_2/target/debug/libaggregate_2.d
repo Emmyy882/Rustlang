@@ -1,0 +1,1 @@
+/home/emmyy/Rustlang/generic_types_traits/aggregate_2/target/debug/libaggregate_2.rlib: /home/emmyy/Rustlang/generic_types_traits/aggregate_2/src/lib.rs /home/emmyy/Rustlang/generic_types_traits/aggregate_2/src/news_article.rs /home/emmyy/Rustlang/generic_types_traits/aggregate_2/src/summary.rs /home/emmyy/Rustlang/generic_types_traits/aggregate_2/src/tweet.rs
