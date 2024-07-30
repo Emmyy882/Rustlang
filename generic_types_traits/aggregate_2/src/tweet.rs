@@ -1,6 +1,5 @@
-use crate::Summary;
+use crate::summary::Summary;
 
-#[derive(Debug)]
 pub struct Tweet {
     pub username: String,
     pub content: String,

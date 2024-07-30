@@ -1,16 +1,16 @@
-use aggregate_2::Summary;
+#[allow(unused_imports)]
+use aggregate_2::{Summary, Tweet, NewsArticle};
 
-use std::fmt;
-fn returns_summarizable<T: fmt::Debug>() -> impl Summary {
-    use aggregate_2::tweet::Tweet;
+fn returns_summarizable() -> impl Summary {
     Tweet {
-        username: String::from("mike's_podcast"),
-        content: String::from("as you probably know, people"),
+        username: String::from("horse_ebooks"),
+        content: String::from("of course, as you probably already know, people"),
         reply: false,
         retweet: false,
     }
 }
 
 fn main() {
-    println!("{:?}", returns_summarizable());
+    let tweet = returns_summarizable();
+    println!("{}", tweet.summarize());
 }

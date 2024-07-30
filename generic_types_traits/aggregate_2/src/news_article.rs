@@ -1,6 +1,5 @@
-use crate::Summary;
+use crate::summary::Summary;
 
-#[derive(Debug)]
 pub struct NewsArticle {
     pub headline: String,
     pub location: String,
