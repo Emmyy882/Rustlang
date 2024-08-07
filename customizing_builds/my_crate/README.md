@@ -6,3 +6,6 @@ and published so other developers can make use of the Crate.
 whose duty is to return the result of adding **1** to whatever value passed
 to it.
 * This Crate is published publicly into an html file using **cargo doc --open**
+
+  
+![crate](https://github.com/user-attachments/assets/9414dcc7-ddd0-465c-abc6-cfa64b97963e)
