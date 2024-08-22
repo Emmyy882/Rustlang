@@ -1,1 +1,0 @@
-/home/emmyy/Rustlang/closures_and_iterators/company_inventory/target/debug/company_inventory: /home/emmyy/Rustlang/closures_and_iterators/company_inventory/src/lib.rs /home/emmyy/Rustlang/closures_and_iterators/company_inventory/src/main.rs
